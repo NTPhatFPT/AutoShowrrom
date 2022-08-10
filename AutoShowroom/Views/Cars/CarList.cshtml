@@ -1,0 +1,23 @@
+﻿@model IEnumerable<DataAccess.Models.Car>
+
+@{
+    ViewData["Title"] = "CarList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CarList</h1>
+
+
+<h2>
+    Cars
+</h2>
+<div class="row">
+    @foreach(var car in Model)
+    {
+        <div class="col-md-4">
+            <span style="font-weight:bold" class="d-flex justify-content-center">@car.CarName</span>
+            <a asp-action="CarDetails" asp-route-id="@car.CarId"><img src="~/images/@car.Image" class="img-fluid w-100 h-75"></a>
+            <span class="d-flex justify-content-center">Add to order</span>
+        </div>
+    }
+</div>

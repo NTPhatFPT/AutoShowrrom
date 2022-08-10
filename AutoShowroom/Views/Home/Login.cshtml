@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h4 style="color:red" >@TempData["fail"]</h4>
+<form action="CheckLogin">
+    <table>
+        <tr>
+            <td>User Name</td>
+            <td><input name="username"/></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input name="userpassword"/></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Login" class="btn btn-primary" /></td>
+        </tr>
+    </table>
+</form>
