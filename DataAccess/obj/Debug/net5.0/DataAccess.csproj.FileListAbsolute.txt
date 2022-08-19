@@ -13,3 +13,18 @@ C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoSho
 C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
 C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\user\Desktop\FPT University\Semester 5\PRN211\Workspace\Web MVC\AutoShowroom Git\AutoShowrrom\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

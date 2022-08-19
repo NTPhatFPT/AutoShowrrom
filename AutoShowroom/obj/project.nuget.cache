@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NeSIG3IWjYUv82f6hcR0JppIDTmYt1UHfSsMrnvAjwqIQSptvN56j0UtnzZmzE0+qZhgB3PpXnghHy928bgt0w==",
+  "dgSpecHash": "RnHWgMbK0w3QsWfahVmiEquK+VMWge/VI1l8HRxm6pmjlCtHw+RAAXPggnx/sxy9IJFOiqNmqa5RJ8DsAzjVyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FPT University\\Semester 5\\PRN211\\Workspace\\Web MVC\\AutoShowroom\\AutoShowroom\\AutoShowroom.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FPT University\\Semester 5\\PRN211\\Workspace\\Web MVC\\AutoShowroom Git\\AutoShowrrom\\AutoShowroom\\AutoShowroom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",
