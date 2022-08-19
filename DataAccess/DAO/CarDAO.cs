@@ -73,5 +73,15 @@ namespace DataAccess.DAO
                 throw new Exception("ID is already exist!");
             }
         }
+
+        public IEnumerable<Car> Search(string name)
+        {
+            var cars = new List<Car>();
+            using(var db = new MyStockContext())
+            {
+                cars = db.Cars.Where(c => c.CarName.Contains(name)).ToList();
+            }
+            return cars;
+        }
     }
 }

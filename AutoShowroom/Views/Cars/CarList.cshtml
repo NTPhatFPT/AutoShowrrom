@@ -11,6 +11,20 @@
 <h2>
     Cars
 </h2>
+<form method="post" asp-controller="Cars" asp-action="Search">
+    <div class="row">
+        <div class="col-md-3">
+            <input class="form-control" id="" type="text" name="name" placeholder="Search...">
+        </div>
+        <div class="col-md-1">
+             <button class="btn btn-success" type="submit" value="Search">Search</button>
+        </div>
+    </div>
+        
+       
+        <br />
+        
+</form>
 <div class="row">
     @foreach(var car in Model)
     {
@@ -21,3 +35,4 @@
         </div>
     }
 </div>
+

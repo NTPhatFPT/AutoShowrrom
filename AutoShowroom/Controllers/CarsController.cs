@@ -91,5 +91,20 @@ namespace AutoShowroom.Controllers
             carDAO.AddCar(car);
             return View("Create");
         }
+
+        public IActionResult Search(string name)
+        {
+            var cars = new List<Car>();
+            cars= (List<Car>)carDAO.Search(name);
+            if(cars.Count==0)
+            {
+                var carlist = carDAO.GetAllCar();
+                return View("CarList",carlist);
+            }
+            else
+            {
+                return View("CarList", cars);
+            }
+        }
     }
 }
